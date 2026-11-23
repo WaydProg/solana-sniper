@@ -1,0 +1,10 @@
+aiogram==3.31.0
+aiohttp==3.14.3
+aiolimiter==1.3.0
+aiosqlite==0.22.1
+python-dotenv==1.2.3
+SQLAlchemy==2.0.54
+websockets==17.1
+
+# dev
+pytest==9.1.1
